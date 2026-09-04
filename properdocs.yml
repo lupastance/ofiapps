@@ -3,6 +3,16 @@ site_url: https://lupastance.github.io/ofiapps
 
 nav:
   - 📚 Inicio: index.md
+  - 1️⃣ Introducción a las aplicaciones ofimáticas: 1.md
+  - 2️⃣ Instalación y configuración de aplicaciones: 2.md
+  - 3️⃣ Procesadores de texto: 3.md
+  - 4️⃣ Hojas de cálculo: 4.md
+  - 5️⃣Bases de datos ofimáticas: 5.md
+  - 6️⃣ Tratamiento de imágenes digitales: 6.md
+  - 7️⃣ Tratamiento de vídeo digital: 7.md
+  - 8️⃣ Presentaciones multimedia: 8.md
+  - 9️⃣ Correo electrónico y agenda electrónica: 9.md
+  - 1️⃣0️⃣ Soporte al usuario y resolución de incidencias: 10.md
 
 
 theme:
