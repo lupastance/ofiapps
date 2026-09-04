@@ -95,7 +95,7 @@ Estos nueve RA aparecen asociados al módulo 0223 en la normativa oficial. ([BOE
 
 | Nº | Unidad / tema                                  | RA  | % Nota |
 | :-: | --------------------------------------------- | :-: | :---:  |
-|  1 | Introducción a las aplicaciones ofimáticas     | RA1 |    5s   |
+|  1 | Introducción a las aplicaciones ofimáticas     | RA1 |    5   |
 |  2 | Instalación y configuración de aplicaciones    | RA1 |    5   |
 |  3 | Procesadores de texto                          | RA2 |    16  |
 |  4 | Hojas de cálculo                               | RA3 |    20  |
