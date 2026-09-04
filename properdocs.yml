@@ -1,5 +1,10 @@
 site_name: Aplicaciones Ofimáticas
 site_url: https://lupastance.github.io/ofiapps
+
+nav:
+  - 📚 Inicio: index.md
+
+
 theme:
   language: es
   logo: assets/logo.png

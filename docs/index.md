@@ -10,14 +10,14 @@
 | **Código**              | **0223**                           |
 | **Familia profesional** | Informática y Comunicaciones       |
 | **Grado**               | Grado Medio                        |
-| **Duración**            | **224 horas**                      |
+| **Duración**            | **233 horas**                      |
 | **Carga horaria**       | **7 horas semanales**              |
 | **Curso académico**     | 2026-2027                          |
 
 
 ---
 
-# 2. ¿Qué vamos a aprender?
+## 2. ¿Qué vamos a aprender?
 
 El módulo de **Aplicaciones ofimáticas** tiene como finalidad que el alumnado sea capaz de **instalar, configurar, utilizar y mantener aplicaciones de propósito general**, además de proporcionar soporte a los usuarios.
 
@@ -28,7 +28,7 @@ No se trata únicamente de aprender a utilizar Word, Excel o PowerPoint. El mód
 
 ---
 
-# 3. Resultados de aprendizaje
+## 3. Resultados de aprendizaje
 
 Al finalizar el módulo, el alumnado deberá alcanzar los siguientes **Resultados de Aprendizaje (RA)**:
 
@@ -90,38 +90,81 @@ Estos nueve RA aparecen asociados al módulo 0223 en la normativa oficial. ([BOE
 
 ---
 
-# 4. Temporalización
+## 4. Temporalización
 
-Aquí **no pondría todavía los temas definitivos**. Primero tenemos que diseñarlos y después asignarles las horas.
 
-La estructura que propongo inicialmente es:
+| Nº | Unidad / tema                                  | RA  | % Nota |
+| :-: | --------------------------------------------- | :-: | :---:  |
+|  1 | Introducción a las aplicaciones ofimáticas     | RA1 |    5s   |
+|  2 | Instalación y configuración de aplicaciones    | RA1 |    5   |
+|  3 | Procesadores de texto                          | RA2 |    16  |
+|  4 | Hojas de cálculo                               | RA3 |    20  |
+|  5 | Bases de datos ofimáticas                      | RA4 |    15  |
+|  6 | Tratamiento de imágenes digitales              | RA5 |    9   |
+|  7 | Tratamiento de vídeo digital                   | RA6 |    9   |
+|  8 | Presentaciones multimedia                      | RA7 |    9   |
+|  9 | Correo electrónico y agenda electrónica        | RA8 |    5   |
+| 10 | Soporte al usuario y resolución de incidencias | RA9 |    7   |
 
-| Nº | Unidad / tema                                  | RA  | Horas |
-| :-: | --------------------------------------------- | :-: | :---: |
-|  1 | Introducción a las aplicaciones ofimáticas     | RA1 |     — |
-|  2 | Instalación y configuración de aplicaciones    | RA1 |     — |
-|  3 | Procesadores de texto                          | RA2 |     — |
-|  4 | Hojas de cálculo                               | RA3 |     — |
-|  5 | Bases de datos ofimáticas                      | RA4 |     — |
-|  6 | Tratamiento de imágenes digitales              | RA5 |     — |
-|  7 | Tratamiento de vídeo digital                   | RA6 |     — |
-|  8 | Presentaciones multimedia                      | RA7 |     — |
-|  9 | Correo electrónico y agenda electrónica        | RA8 |     — |
-| 10 | Soporte al usuario y resolución de incidencias | RA9 |     — |
+**Total: 233 horas**
 
-**Total: 224 horas**
+|   Sem. | Fechas         |   Horas | Contenido                            |   RA  |   Acum. |
+| :----: | :--------------: | :------: | ------------------------------------ | :---: | :------: |
+|  **1** | 9–10 sep.      | **5 h** | T1 · Introducción                    |  RA1  |       5 |
+|  **2** | 15–17 sep.     |     7 h | T1 (5 h) → T2 (2 h)                  |  RA1  |      12 |
+|  **3** | 22–24 sep.     |     7 h | T2 · Instalación y configuración     |  RA1  |      19 |
+|  **4** | 29 sep.–1 oct. |     7 h | T2 · Instalación y configuración     |  RA1  |      26 |
+|  **5** | 6–8 oct.       |     7 h | T2 (2 h) → T3 (5 h)                  | RA1/2 |      33 |
+|  **6** | 13–15 oct.     |     7 h | T3 · Procesadores de texto           |  RA2  |      40 |
+|  **7** | 20–22 oct.     |     7 h | T3 · Procesadores de texto           |  RA2  |      47 |
+|  **8** | 27–29 oct.     |     7 h | T3 · Procesadores de texto           |  RA2  |      54 |
+|  **9** | 3–5 nov.       |     7 h | T3 · Procesadores de texto           |  RA2  |      61 |
+| **10** | 10–12 nov.     |     7 h | T3 (5 h) → T4 (2 h)                  | RA2/3 |      68 |
+| **11** | 17–19 nov.     |     7 h | T4 · Hojas de cálculo                |  RA3  |      75 |
+| **12** | 24–26 nov.     |     7 h | T4 · Hojas de cálculo                |  RA3  |      82 |
+| **13** | 1–3 dic.       |     7 h | T4 · Hojas de cálculo                |  RA3  |      89 |
+| **14** | 8–10 dic.      | **5 h** | T4 · Hojas de cálculo                |  RA3  |      94 |
+| **15** | 15–17 dic.     |     7 h | T4 · Hojas de cálculo                |  RA3  |     101 |
+| **16** | 22–24 dic.     | **0 h** | 🎄 Navidad                           |   —   |     101 |
+| **17** | 29–31 dic.     | **0 h** | 🎄 Navidad                           |   —   |     101 |
+| **18** | 5–7 ene.       | **3 h** | T4 · Hojas de cálculo                |  RA3  |     104 |
+| **19** | 12–14 ene.     |     7 h | T4 · Hojas de cálculo                |  RA3  |     111 |
+| **20** | 19–21 ene.     |     7 h | T4 (1 h) → T5 (6 h)                  | RA3/4 |     118 |
+| **21** | 26–28 ene.     |     7 h | T5 · Bases de datos                  |  RA4  |     125 |
+| **22** | 2–4 feb.       |     7 h | T5 · Bases de datos                  |  RA4  |     132 |
+| **23** | 9–11 feb.      |     7 h | T5 · Bases de datos                  |  RA4  |     139 |
+| **24** | 16–18 feb.     |     7 h | T5 · Bases de datos                  |  RA4  |     146 |
+| **25** | 23–25 feb.     |     7 h | T6 · Imagen digital                  |  RA5  |     153 |
+| **26** | 2–4 mar.       |     7 h | T6 · Imagen digital                  |  RA5  |     160 |
+| **27** | 9–11 mar.      |     7 h | T6 (6 h) → T7 (1 h)                  | RA5/6 |     167 |
+| **28** | 16–18 mar.     |     7 h | T7 · Vídeo digital                   |  RA6  |     174 |
+| **29** | 23–25 mar.     | **0 h** | 🐣 Pascua                            |   —   |     174 |
+| **30** | 30 mar.–1 abr. | **3 h** | T7 · Vídeo digital                   |  RA6  |     177 |
+| **31** | 6–8 abr.       |     7 h | T7 · Vídeo digital                   |  RA6  |     184 |
+| **32** | 13–15 abr.     |     7 h | T7 (2 h) → T8 (5 h)                  | RA6/7 |     191 |
+| **33** | 20–22 abr.     |     7 h | T8 · Presentaciones                  |  RA7  |     198 |
+| **34** | 27–29 abr.     |     7 h | T8 · Presentaciones                  |  RA7  |     205 |
+| **35** | 4–6 may.       |     7 h | T8 (1 h) → T9 (6 h)                  | RA7/8 |     212 |
+| **36** | 11–13 may.     |     7 h | T9 (6 h) → T10 (1 h)                 | RA8/9 |     219 |
+| **37** | 18–20 may.     |     7 h | T10 · Soporte al usuario             |  RA9  |     226 |
+| **38** | 25–27 may.     |     7 h | T10 · Soporte al usuario             |  RA9  | **233** |
+| **39** | 1–3 jun.       |     7 h | Proyecto / recuperación / ampliación | Todos |       — |
+| **40** | 8–10 jun.      |     7 h | Proyecto / recuperación / evaluación | Todos |       — |
+| **41** | 15–17 jun.     |     7 h | Recuperaciones y cierre del curso    | Todos |       — |
 
-El total de horas está establecido en la documentación de la [Conselleria de Educación][1]
 
 ---
 
-# 5. Metodología
+## 5. Metodología
 
 A continuación se describe el método para impartir esta asignatura.
 
 ### 💻 Aprendizaje práctico
 
 La mayor parte del aprendizaje se realizará mediante ejercicios y prácticas utilizando aplicaciones reales.
+
+!!!danger "¡ Atención !"
+    No todos los ejercicios ni todas las prácticas que se vean o pidan en clase serán evaluadas para la nota final de la asignatura o evaluación, solo las que el profesor diga y se podrá hacer el seguimiento de las mismas a través de **Aules**.
 
 ### 🏢 Situaciones profesionales
 
@@ -142,7 +185,7 @@ Siempre que sea posible, utilizaremos herramientas que permitan al alumnado trab
 
 ---
 
-# 6. Organización de los contenidos
+## 6. Organización de los contenidos
 
 Esta distribución del curso puede sufrir algunos cambios, dependiendo del nivel de la clase y la temporalización del curso.
 
@@ -168,7 +211,7 @@ Aplicaciones ofimáticas
 └── 10 · Soporte al usuario
 ```
 
-!!!info "Cada tema tendría aproximadamente la misma estructura"
+!!!info "Cada tema tendría aproximadamente la misma estructura y puede variar tanto el número de temas como el contenido de cada uno de ellos, dependiendo del ritmo del curso"
     
 
 ```text
@@ -184,24 +227,43 @@ Aplicaciones ofimáticas
 
 ---
 
-## Una cosa que cambiaría respecto a mi propuesta anterior
 
-Ahora que hemos comprobado la documentación valenciana, **no fijaría todavía las 224 horas entre los 10 temas**.
+## 7. **Software y herramientas**
 
-Primero deberíamos hacer algo más importante:
+   * LibreOffice / Microsoft Office
+   * GIMP
+   * Kdenlive o similar
+   * Thunderbird
+   * Herramientas de presentación
+   * Herramientas auxiliares
 
-**RA → criterios de evaluación → contenidos oficiales → unidades didácticas → horas.**
 
-Así nos aseguramos de que **todo lo que escribamos en los apuntes tenga detrás una correspondencia curricular** y no acabemos haciendo un temario muy bonito pero que deje algún criterio de evaluación fuera.
+## 8. **Normas de trabajo**
 
-Y después podemos añadir encima de cada tema algo como:
+* Organización de archivos
+* Nomenclatura
+* Copias de seguridad
+* Entrega de prácticas
+* Uso responsable de equipos
+* Licencias y propiedad intelectual
+* IA generativa, si quieres incluirla
 
-> **RA2 · Procesadores de texto**
-> Criterios de evaluación: a, b, c, d...
+## 9. **Proyecto transversal**
 
-Eso para una web docente queda especialmente bien y, además, te sirve como base para tu **programación didáctica**.
+!!!tip "La ide del proyecto"
+    Explicar brevemente la idea de la **empresa ficticia** que irá evolucionando durante el curso. Se podrá elegir entre varios tipos de empresa.
 
-Si estás de acuerdo, el siguiente paso sería que construyamos **la página "Información del módulo" completa**, incluyendo **objetivos, competencias profesionales, RA, criterios de evaluación, contenidos, metodología, evaluación y temporalización**, ya preparada para copiarla directamente a tu `index.md` de MkDocs.
+## 10. **Materiales y recursos**
+
+* Apuntes
+* Prácticas
+* Ejercicios
+* Recursos externos
+* Vídeos/tutoriales
+* Documentación oficial
+
+---
+
 
 [1]: https://ceice.gva.es/documents/388109149/390313601/infsmrloe2h.pdf?utm_source=chatgpt.com "FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES"
 [2]: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2008-819&utm_source=chatgpt.com "BOE-A-2008-819 Real Decreto 1691/2007, de 14 de diciembre, por el que se establece el título de Técnico en Sistemas Microinformáticos y Redes y se fijan sus enseñanzas mínimas."
