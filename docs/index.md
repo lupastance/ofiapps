@@ -265,5 +265,12 @@ Aplicaciones ofimáticas
 ---
 
 
+![Discord Logo](assets/discord.png){align="right" width="400"}
+
+Usaremos Discord como método de comunicación de información sobre la asignatura y este curso. Podéis hablar por el chat cuando queráis y usar los canales de estudio con audio por si queréis estudiar en un mismo sitio.
+
+La invitación al canal es la siguiente ➡️ [https://discord.gg/hqEGQNdbwS](https://discord.gg/hqEGQNdbwS)
+
+
 [1]: https://ceice.gva.es/documents/388109149/390313601/infsmrloe2h.pdf?utm_source=chatgpt.com "FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES"
 [2]: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2008-819&utm_source=chatgpt.com "BOE-A-2008-819 Real Decreto 1691/2007, de 14 de diciembre, por el que se establece el título de Técnico en Sistemas Microinformáticos y Redes y se fijan sus enseñanzas mínimas."
