@@ -5,3 +5,9 @@
 .md-typeset table:not([class]){
     display: inline-table;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
